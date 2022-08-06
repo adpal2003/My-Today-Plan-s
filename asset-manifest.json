@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/My-Today-Plan-s/static/css/main.2ce485bf.css",
+    "main.js": "/My-Today-Plan-s/static/js/main.1e22e1ee.js",
+    "static/js/787.9f629601.chunk.js": "/My-Today-Plan-s/static/js/787.9f629601.chunk.js",
+    "index.html": "/My-Today-Plan-s/index.html",
+    "main.2ce485bf.css.map": "/My-Today-Plan-s/static/css/main.2ce485bf.css.map",
+    "main.1e22e1ee.js.map": "/My-Today-Plan-s/static/js/main.1e22e1ee.js.map",
+    "787.9f629601.chunk.js.map": "/My-Today-Plan-s/static/js/787.9f629601.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ce485bf.css",
+    "static/js/main.1e22e1ee.js"
+  ]
+}
